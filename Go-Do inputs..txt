@@ -1,0 +1,10 @@
+Go-Do inputs.
+1. Sorting tasks
+    -due date
+    -creation date
+2. Notifications
+    -ability to customize notifications
+3. Dark mode
+4. Localization
+    -en
+    -sw
