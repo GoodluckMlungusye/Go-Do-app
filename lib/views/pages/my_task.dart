@@ -3,7 +3,6 @@ import 'package:GoDo/views/pages/my_tasks.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:hive/hive.dart';
-import '../../components/progress_viewer.dart';
 import '../../models/Category.dart';
 import '../../themes/theme_assets.dart';
 import 'package:intl/intl.dart';

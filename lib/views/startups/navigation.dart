@@ -1,7 +1,6 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:GoDo/themes/theme_assets.dart';
 import 'package:flutter/material.dart';
-
 import '../tabs/add_option.dart';
 import '../tabs/home.dart';
 import '../tabs/categories.dart';

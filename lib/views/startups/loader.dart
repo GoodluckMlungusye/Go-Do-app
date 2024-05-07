@@ -6,10 +6,8 @@ import '../../themes/theme_assets.dart';
 class Loader extends StatefulWidget {
   const Loader({super.key});
 
-
   @override
   State<Loader> createState() => _LoaderState();
-
 }
 
 class _LoaderState extends State<Loader> {
@@ -25,7 +23,6 @@ class _LoaderState extends State<Loader> {
     super.initState();
     checkTimer();
   }
-
 
   @override
   Widget build(BuildContext context) {
